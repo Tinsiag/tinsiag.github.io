@@ -101,4 +101,6 @@ theme: particlex
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@47.98.135.8:/home/git/hexo.git
+  branch: master
