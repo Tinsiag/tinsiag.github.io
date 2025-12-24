@@ -1,0 +1,24 @@
+  - class_name : 一眼万年
+    path_name: /ILoveYou
+    type: 1
+    description: 亲爱的，热爱的，这是我的一眼万年。
+    cover: http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/love/IMG_7575.jpg
+    top_background: http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/%E5%9B%BE%E5%BA%8A/%E6%9C%80%E7%BB%88%E7%89%88.mp4_20240917_113841.422.jpg
+    rowHeight: 220
+    limit: 10
+    lazyload: true
+    btnLazyload: false
+    url: false
+    top_link: /album  
+    top_btn_text: 返回
+    album_list: 
+      - date: 2025/12/21 21:33:00
+        content: 好可爱啊啊啊
+        from: 一起笑
+        image: 
+        - http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/love/IMG_7522_20251221213246.jpg
+        - http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/love/IMG_7523_20251221213332.jpg
+        - http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/love/IMG_7524_20251221213537.jpg
+        - http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/love/IMG_7525_20251221213546.jpg
+        - http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/love/IMG_7524_20251221213537.jpg
+        - http://mc.650644.xyz:5244/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/love/IMG_7519_20251221212804.jpg
