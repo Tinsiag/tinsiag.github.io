@@ -1,29 +1,31 @@
 - class_name: 关于页
   subtitle: 生活明朗，万物可爱✨
-  avatarImg: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.0/img/avatar.webp
+  avatarImg: https://pan.tinsiag.cn/d/189/%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%87/%E5%9B%BE%E5%BA%8A/avatar.png
   avatarSkills:
     left:
       - 🤖️ 数码科技爱好者
-      - 🔍 分享与热心帮助
-      - 🏠 智能家居小能手
-      - 🔨 设计开发一条龙
+      - 📋 资深 C/V 工程师
+      - 🗣️ 提示词(Prompt) 工程师
+      - 🔍 面向搜索引擎编程
+      - 🏗️ 祖传屎山堆砌工
     right:
-      - 专修交互与设计 🤝
-      - 脚踏实地行动派 🏃
-      - 团队小组发动机 🧱
-      - 壮汉人狠话不多 💢
-  name: 陈志伟
-  description: 是一名 前端工程师、学生、独立开发者、博主
+      - 屡割屡长新韭菜 🌱
+      - 金融市场慈善家 💸
+      - 追涨杀跌小能手 📉
+      - 独家特性(Bug)开发者 ✨
+      - 像素级临摹大师 📐
+  name: Tinsiag
+  description: 是一名独立开发者，前端后端都略知一二、学生、单片机也会一丢丢，喜欢抄板（bushi 。
   aboutsiteTips:
-    tips: 追求
-    title1: 源于
-    title2: 热爱而去 感受
+    tips: 觉知
+    title1: 归于
+    title2: 平静 而去 编译
     word:
-      - 学习
-      - 生活
-      - 程序
-      - 体验
-  helloAbout: Hello there!
+      - 坚守   # 对交易计划的执行
+      - 调试   # Debug代码，也是复盘交易错误
+      - 内核   # 单片机的Core，也是人的初心
+      - 自由   # 财务自由与代码实现的自由
+  helloAbout: Hello word!
   skillsTips:
     tips: 技能
     title: 开启创造力

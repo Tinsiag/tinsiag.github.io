@@ -52,12 +52,12 @@ description: 闲出屁来的产物。
 
 #### 使用`git -v`,`node -v`验证安装
 
-```
+```bat
 C:\Users\Admin>git -v
 git version 2.51.0.windows.1
 ```
 
-```
+```bash
 C:\Users\Admin>node -v
 v25.2.0
 ```
@@ -114,7 +114,7 @@ apt install -y nginx
 
 - 无域名配置文件 (修改IP 为实际IP值)
 
-  ```
+  ```yml
   server {
       listen        80;
       listen   [::]:80;

@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小新乁
+title: Tinsiagの小窝
 subtitle: ''
-description: '一个菜逼'
-keywords:
+description: '啥都会点的菜逼 ，韭菜一枚'
+keywords: ['韭菜','菜逼']
 author: Tinsiag Zhu
 language: cn
 timezone: 'Asia/ShangHai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://blog.tinsiag.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -45,6 +45,7 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
+  enable: true
   line_number: false
   auto_detect: false
   tab_replace: ''
